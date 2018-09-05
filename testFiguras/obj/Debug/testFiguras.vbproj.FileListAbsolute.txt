@@ -1,0 +1,13 @@
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\bin\Debug\testFiguras.exe.config
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\bin\Debug\testFiguras.exe
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\bin\Debug\testFiguras.pdb
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\bin\Debug\testFiguras.xml
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\bin\Debug\figuras.dll
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\bin\Debug\figuras.pdb
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\bin\Debug\figuras.xml
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\obj\Debug\testFiguras.vbprojResolveAssemblyReference.cache
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\obj\Debug\testFiguras.Resources.resources
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\obj\Debug\testFiguras.vbproj.GenerateResource.Cache
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\obj\Debug\testFiguras.exe
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\obj\Debug\testFiguras.xml
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\testFiguras\obj\Debug\testFiguras.pdb

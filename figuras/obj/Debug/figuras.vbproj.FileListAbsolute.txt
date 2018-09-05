@@ -1,0 +1,8 @@
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\bin\Debug\figuras.dll
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\bin\Debug\figuras.pdb
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\bin\Debug\figuras.xml
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\obj\Debug\figuras.Resources.resources
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\obj\Debug\figuras.vbproj.GenerateResource.Cache
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\obj\Debug\figuras.dll
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\obj\Debug\figuras.xml
+D:\Users\user1\Desktop\parcial Barthe Gonzalo\figurasGeometricas\figuras\obj\Debug\figuras.pdb
